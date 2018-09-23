@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical" >
+
+    <CheckBox
+        android:id="@+id/checkBoxBold"
+        style="@android:style/Widget.Material.CompoundButton.CheckBox"
+        android:layout_width="421dp"
+        android:layout_height="wrap_content"
+        android:background="@color/systemWhiteColor"
+        android:buttonTint="@color/colorPrimary" />
+</LinearLayout>
