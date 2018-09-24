@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Mon Sep 24 12:39:53 MSK 2018
+1.base=/Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/build/intermediates/assets/debug
+2.path=fonts/OpenSans-Semibold.ttf
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=/Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/build/intermediates/assets/debug
+3.set=DEX
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=ASSET
+0.path=fonts/OpenSans-Regular.ttf
+3.base=/Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/build/intermediates/transforms/dexMerger/debug/0
+0.set=ASSET
+0.base=/Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/build/intermediates/assets/debug
+2.baseType=DIRECTORY
+1.path=fonts/OpenSans-Light.ttf

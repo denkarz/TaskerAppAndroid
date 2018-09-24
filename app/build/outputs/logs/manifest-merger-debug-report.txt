@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] /Users/denis/.gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/dcf02ea6cb2cc61a6852c3b04c33b0d1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/7ccee16f48c97fdc8b519a961a5bc5d4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/244aef578e985e267025a88a4d335271/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/denis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3f9d9a2dfa5ec4f6970c43ce0805bb99/AndroidManifest.xml:2:1-11:12
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/64c417eb535343cd9bcee343a8215bc9/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/7d9dbe13aa194c028ec9ba0f0eca55c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/76186ccd913a2eaf0209f60d66ea61ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/e14990fc2eff2265eb83ce763d936438/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/9f24e4b1aa18883f918754969b442b02/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/4b80c906fc76881f4f3d7658a1f83d44/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc02.aar/0088827557f3f27fbd6c8bcad9b4d049/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/ebd3d6a69532f2379dcda6385d66166e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/94ba4a8a3ee1c907e5f3bbc6c892f16d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/176d83c6945ed5e945355b204b9bdf5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/24b6f95a58382bbecb26012b4a00db11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/3e23ec526ea243a0027bbdb2e81c108c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/9fd30c925202c17ebd438f66284b4d09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/40019c2bdf326f581a840a96add458ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/d9e7ead4753c226b9f14a6aed15c151a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/453f13623b652dda399caf5481e09415/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/2a09db8278c3f2d0f59526f32c83b69e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/508150dcbf810676d50e1fecd60b2fcd/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/5b40d413cd69ce7216ac08608916da36/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dfe069a482449bdd0bdfac9d6c0bd5ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/81571d331c45cbd108922a37492e6c32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/2d5c765d467060db5ad501ede0815a97/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/c6e042521b0cd22850e7686de7cefe0a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d4b59cbbff25501d53822e6d15d88738/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/38978bee9f59ff03546ca0c02698c34f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/75186570649f314f89f13e725f1c36e5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/341b9bd55bf5b68761565795618d102f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7449a438f10c7ed4566aeb603df9ad24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/145f9b0be07cffc24bf9804476bcd1b7/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/64c417eb535343cd9bcee343a8215bc9/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/64c417eb535343cd9bcee343a8215bc9/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/145f9b0be07cffc24bf9804476bcd1b7/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/145f9b0be07cffc24bf9804476bcd1b7/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] /Users/denis/.gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/dcf02ea6cb2cc61a6852c3b04c33b0d1/AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] /Users/denis/.gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/dcf02ea6cb2cc61a6852c3b04c33b0d1/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/7ccee16f48c97fdc8b519a961a5bc5d4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/7ccee16f48c97fdc8b519a961a5bc5d4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/denis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3f9d9a2dfa5ec4f6970c43ce0805bb99/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/denis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3f9d9a2dfa5ec4f6970c43ce0805bb99/AndroidManifest.xml:9:5-20
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/64c417eb535343cd9bcee343a8215bc9/AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/64c417eb535343cd9bcee343a8215bc9/AndroidManifest.xml:13:5-14:19
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/2a09db8278c3f2d0f59526f32c83b69e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/2a09db8278c3f2d0f59526f32c83b69e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/508150dcbf810676d50e1fecd60b2fcd/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/508150dcbf810676d50e1fecd60b2fcd/AndroidManifest.xml:22:5-23:19
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/145f9b0be07cffc24bf9804476bcd1b7/AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/145f9b0be07cffc24bf9804476bcd1b7/AndroidManifest.xml:13:5-14:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/2a09db8278c3f2d0f59526f32c83b69e/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.denkarz.taskerapp.MainActivity
+ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:14:9-21:20
+	android:theme
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:15:13-69
+	android:name
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.denkarz.taskerapp.AddTaskActivity
+ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:22:9-23:71
+	android:theme
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:23:13-69
+	android:name
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml:22:19-50
+uses-sdk
+INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] /Users/denis/.gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/dcf02ea6cb2cc61a6852c3b04c33b0d1/AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] /Users/denis/.gradle/caches/transforms-1/files-1.1/calligraphy-2.3.0.aar/dcf02ea6cb2cc61a6852c3b04c33b0d1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/7ccee16f48c97fdc8b519a961a5bc5d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/7ccee16f48c97fdc8b519a961a5bc5d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/244aef578e985e267025a88a4d335271/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/244aef578e985e267025a88a4d335271/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/denis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3f9d9a2dfa5ec4f6970c43ce0805bb99/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/denis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3f9d9a2dfa5ec4f6970c43ce0805bb99/AndroidManifest.xml:5:5-7:41
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/64c417eb535343cd9bcee343a8215bc9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/64c417eb535343cd9bcee343a8215bc9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/7d9dbe13aa194c028ec9ba0f0eca55c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/7d9dbe13aa194c028ec9ba0f0eca55c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/76186ccd913a2eaf0209f60d66ea61ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/76186ccd913a2eaf0209f60d66ea61ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/e14990fc2eff2265eb83ce763d936438/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/e14990fc2eff2265eb83ce763d936438/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/9f24e4b1aa18883f918754969b442b02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/9f24e4b1aa18883f918754969b442b02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/4b80c906fc76881f4f3d7658a1f83d44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/4b80c906fc76881f4f3d7658a1f83d44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc02.aar/0088827557f3f27fbd6c8bcad9b4d049/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc02.aar/0088827557f3f27fbd6c8bcad9b4d049/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/ebd3d6a69532f2379dcda6385d66166e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/ebd3d6a69532f2379dcda6385d66166e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/94ba4a8a3ee1c907e5f3bbc6c892f16d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/94ba4a8a3ee1c907e5f3bbc6c892f16d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/176d83c6945ed5e945355b204b9bdf5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/176d83c6945ed5e945355b204b9bdf5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/24b6f95a58382bbecb26012b4a00db11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/24b6f95a58382bbecb26012b4a00db11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/3e23ec526ea243a0027bbdb2e81c108c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/3e23ec526ea243a0027bbdb2e81c108c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/9fd30c925202c17ebd438f66284b4d09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/9fd30c925202c17ebd438f66284b4d09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/40019c2bdf326f581a840a96add458ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/40019c2bdf326f581a840a96add458ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/d9e7ead4753c226b9f14a6aed15c151a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/d9e7ead4753c226b9f14a6aed15c151a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/453f13623b652dda399caf5481e09415/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/453f13623b652dda399caf5481e09415/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/2a09db8278c3f2d0f59526f32c83b69e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/2a09db8278c3f2d0f59526f32c83b69e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/508150dcbf810676d50e1fecd60b2fcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/508150dcbf810676d50e1fecd60b2fcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/5b40d413cd69ce7216ac08608916da36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/5b40d413cd69ce7216ac08608916da36/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dfe069a482449bdd0bdfac9d6c0bd5ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dfe069a482449bdd0bdfac9d6c0bd5ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/81571d331c45cbd108922a37492e6c32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/81571d331c45cbd108922a37492e6c32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/2d5c765d467060db5ad501ede0815a97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/2d5c765d467060db5ad501ede0815a97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/c6e042521b0cd22850e7686de7cefe0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/c6e042521b0cd22850e7686de7cefe0a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d4b59cbbff25501d53822e6d15d88738/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d4b59cbbff25501d53822e6d15d88738/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/38978bee9f59ff03546ca0c02698c34f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/38978bee9f59ff03546ca0c02698c34f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/75186570649f314f89f13e725f1c36e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/denis/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/75186570649f314f89f13e725f1c36e5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/341b9bd55bf5b68761565795618d102f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/341b9bd55bf5b68761565795618d102f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7449a438f10c7ed4566aeb603df9ad24/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7449a438f10c7ed4566aeb603df9ad24/AndroidManifest.xml:20:5-44
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/145f9b0be07cffc24bf9804476bcd1b7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/denis/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/145f9b0be07cffc24bf9804476bcd1b7/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/src/main/AndroidManifest.xml
