@@ -13,10 +13,15 @@ import android.widget.CheckBox;
 import android.widget.CompoundButton;
 import android.widget.TextView;
 import com.denkarz.taskerapp.model.Todo;
+import com.google.gson.JsonObject;
 import com.koushikdutta.async.future.FutureCallback;
 import com.koushikdutta.ion.Ion;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 import java.util.TreeSet;
 
 public class SectionedListAdapter extends BaseAdapter {
@@ -111,18 +116,19 @@ public class SectionedListAdapter extends BaseAdapter {
                             todoInFocus.id = (int) buttonView.getTag();
                             todoInFocus.text = buttonView.getText().toString();
                             todoInFocus.is_completed=buttonView.isChecked();
-                            System.out.println(buttonView.isChecked());
-                            System.out.println(isChecked);
-                            if (todoInFocus.is_completed != isChecked) {
-                                System.out.println("123456");
-                                return;
-                            }
-                            String id = finalHolder.checkBox.getTag().toString();
-                            String url = "https://limitless-dawn-57124.herokuapp.com/custom_controller/update?id="+id+"&is_completed="+!isChecked;
+                            JsonObject obj = new JsonObject();
+                            obj.addProperty("id", todoInFocus.id);
+                            JsonObject params = new JsonObject();
+                            params.add("todo", obj);
+
+
+//                            String url = "http://192.168.1.68:3000/custom_controller/update";
                             Ion.with(appContext)
-                                    .load(url)
-                                    .asString().
-                                    setCallback(new FutureCallback<String>() {
+                                    .load("PUT", appContext.getResources().getString(R.string.update_url))
+//                                    .load("PUT", url)
+                                    .setJsonObjectBody(params)
+                                    .asString()
+                                    .setCallback(new FutureCallback<String>() {
                                         @Override
                                         public void onCompleted(Exception e, String result) {
 

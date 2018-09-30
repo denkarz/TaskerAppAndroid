@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         projects = new ArrayList<>();
+//        String url = "http://192.168.1.68:3000/custom_controller/index.json";
         Ion.with(this)
                 .load(getString(R.string.index_url))
                 .asJsonArray()

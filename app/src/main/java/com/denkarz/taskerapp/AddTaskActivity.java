@@ -63,11 +63,18 @@ public class AddTaskActivity extends AppCompatActivity {
                 EditText textField = (EditText) findViewById(R.id.task_name);
                 String text = textField.getText().toString();
                 if (!text.equals("") && !project_id.equals("-1")) {
-                    String url = getString(R.string.create_url)+"?project_id="+project_id+"&text="+text;
+                    JsonObject obj = new JsonObject();
+                    obj.addProperty("project_id", project_id);
+                    obj.addProperty("text", text);
+                    JsonObject params = new JsonObject();
+                    params.add("todo", obj);
+//                    String url = "http://192.168.1.68:3000/custom_controller/create";
+//                    String url = getString(R.string.create_url)+"?project_id="+project_id+"&text="+text;
                     Ion.with(getApplicationContext())
-                            .load(url)
-                            .asString().
-                            setCallback(new FutureCallback<String>() {
+                            .load("POST", getString(R.string.create_url))
+                            .setJsonObjectBody(params)
+                            .asString()
+                            .setCallback(new FutureCallback<String>() {
                                 @Override
                                 public void onCompleted(Exception e, String result) {
 

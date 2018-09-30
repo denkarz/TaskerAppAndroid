@@ -1,4 +1,4 @@
-#Mon Sep 24 12:39:53 MSK 2018
+#Sun Sep 30 14:40:54 MSK 2018
 base.0=/Users/denis/AndroidStudioProjects/TaskerAppAndroid/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
